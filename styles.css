@@ -24,3 +24,25 @@ nav:hover{
     background-color: white;
     transition: 0.3s background linear;
 }
+
+.parent-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 60px;
+    /* border: 1px solid black; */
+}
+
+.children-boxes {
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    border-radius: 25px;
+    box-shadow: 5px 10px 24px rgb(199, 94, 112);
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.children-boxes:hover{
+    transform: scale(1.05);
+    transition: 0.3s linear;
+}
