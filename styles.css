@@ -29,7 +29,6 @@ nav:hover{
     display: flex;
     justify-content: space-between;
     margin: 60px;
-    /* border: 1px solid black; */
 }
 
 .children-boxes {
@@ -38,8 +37,11 @@ nav:hover{
     width: 350px;
     border-radius: 25px;
     box-shadow: 5px 10px 24px rgb(199, 94, 112);
-    padding: 15px;
+    padding: 30px;
     box-sizing: border-box;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
 }
 
 .children-boxes:hover{
