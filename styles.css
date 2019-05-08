@@ -46,3 +46,15 @@ nav:hover{
     transform: scale(1.05);
     transition: 0.3s linear;
 }
+
+#box1 {
+    background-color: rgb(255, 220, 255);
+}
+
+#box2 {
+    background-color: rgb(196, 232, 255);
+}
+
+#box3 {
+    background-color: rgb(217, 255, 223);
+}
