@@ -60,3 +60,11 @@ nav:hover{
 #box3 {
     background-color: rgb(217, 255, 223);
 }
+
+footer {
+    text-align: center;
+    width: 100%;
+    color: rgb(199, 94, 112);
+    position: absolute;
+    bottom: 30px;
+}
